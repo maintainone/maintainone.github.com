@@ -1,0 +1,12 @@
+<html>
+    
+ <head>
+   <link rel="stylesheet" href="files/website/webstyles.css" media="screen" />
+</head>
+
+     <div id="sitewrapper">
+
+         <div id="logo">
+
+            <img src="files/website/images/logo.png"/>
+          </dic>   
